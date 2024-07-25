@@ -1,0 +1,2 @@
+prefix = "dpsm"
+location = "eastus"
